@@ -1,0 +1,22 @@
+<!DOCTYPE html>som
+<html>
+    <head>
+        <title>Modified Title</title>
+    </head>
+    <body>
+        <h1>This is the main heading</h1>
+        <p id = "first">I <em> love </em> music. <i>I want to make and write it for myself. </i> I <em> also </em> want to help others do the same.</p>
+  <p> <a id = "second">In times like this we all need a break. These next 4 years are going to be <i>painful</i> for sure. Do whatever you need to do to be at peace or cope. </p>
+  <ul>
+  <li>Tech I Like Using
+    <ul>
+      <li>Noise Cancelling Headphones</li>
+      <li>Flash Drives</li>
+     <li>Bluetooth</li>
+    </ul>
+  </li>
+</ul>
+ 
+  <iframe src="https://giphy.com/embed/4s6RSGMGHcve80vwtR" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoonnetwork-cartoon-network-dude-teen-titans-4s6RSGMGHcve80vwtR">via GIPHY</a></p>
+    </body>
+</html> 
